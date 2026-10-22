@@ -59,11 +59,11 @@ Revix is a modular workbench engineered for rapid binary analysis, malware foren
 
 ---
 
-## Open Source Philosophy
+## Engineering Principles
 
-* **Zero Mock Data:** Every system is designed production-ready, backed by real protocol streams, authentic byte buffers, and live database queries.
-* **Predictable Performance:** Zero-downtime concurrency using Erlang supervision trees and memory-safe Rust native engines.
-* **Developer First:** Clean modular codebases, strict typing, comprehensive architectural documentation, and permissive MIT licensing.
+* **Production-Grade Architecture:** Engineered for real-world deployments with live network protocols, resilient database schemas, and robust error handling.
+* **Predictable Performance:** Sub-millisecond latency and high-throughput concurrency powered by Erlang supervision trees and memory-safe Rust engines.
+* **Developer-First Design:** Clean modular codebases, strict typing, comprehensive architectural documentation, and permissive MIT licensing.
 
 ---
 
